@@ -1,5 +1,5 @@
 # QUIZ-GAME-APPLICATION
-# Koun Banega Karodpati (KBC) Game
+# Kaun Banega Karodpati (KBC) Game
 ![image](https://github.com/POORNIMA-MC/QUIZ-GAME-APPLICATION/assets/94465883/77d0b738-5d3c-4972-b73a-5ab3d777f4a1)
 
 
